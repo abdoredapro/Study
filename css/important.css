@@ -1,0 +1,6 @@
+/*
+top 50% VS translateY(-50%)
+the main difference is that "top: 50%" centers an element within its parent based on the parent's height, while "translateY(-50%)" centers an element within its parent based on its own height, making it more flexible when dealing with variable-sized parent elements.
+
+
+*/
